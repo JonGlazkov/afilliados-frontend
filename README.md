@@ -11,8 +11,8 @@
   </h3>
 </i>
 
-![Final result]([https://github.com/JonGlazkov/b2bit/blob/main/src/Assets/projeto%20finalizado.png](https://github.com/JonGlazkov/afilliados-frontend/blob/main/assets/login-afilliados.png))
-![Final result]([https://github.com/JonGlazkov/b2bit/blob/main/src/Assets/projeto-finalizado-2.png](https://github.com/JonGlazkov/afilliados-frontend/blob/main/assets/transacoes-afilliados.png))
+![Final result](https://github.com/JonGlazkov/afilliados-frontend/blob/main/assets/login-afilliados.png)
+![Final result](https://github.com/JonGlazkov/afilliados-frontend/blob/main/assets/transacoes-afilliados.png)
 
 ---
 
