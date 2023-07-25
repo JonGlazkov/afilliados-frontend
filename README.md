@@ -1,34 +1,80 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#
+<i class="devicon-react-original colored">
+  <h1 align="center">
+    Afiliados - Frontend ✔
+  </h1>
+</i>
 
-## Getting Started
+<i class="devicon-react-original colored">
+  <h3 align="center">
+    Presentation
+  </h3>
+</i>
 
-First, run the development server:
+![Final result]([https://github.com/JonGlazkov/b2bit/blob/main/src/Assets/projeto%20finalizado.png](https://github.com/JonGlazkov/afilliados-frontend/blob/main/assets/login-afilliados.png))
+![Final result]([https://github.com/JonGlazkov/b2bit/blob/main/src/Assets/projeto-finalizado-2.png](https://github.com/JonGlazkov/afilliados-frontend/blob/main/assets/transacoes-afilliados.png))
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+---
+
+## About 💭
+
+First of all, make sure to have Docker already installed. After you done that, go to the following steps:
+
+- Clone this project and then go to the repository directory
+- There are a `.env.example` file. Make a copy of that and rename to `.env`.
+- Change the `NEXT_PUBLIC_BASE_URL` with the backend url (If not choosed it will use PORT 3333).
+- Then run the following command to start the project:
+```sh
+sudo docker compose up -d
 ```
+It will starts a local web server at http://localhost:3000/
+<br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- This is a challenge by [Coodesh](https://lab.coodesh.com/jonathan12/fullstack-afiliados).
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Technologies 🚀
 
-## Learn More
+- React (Next and Tailwind)
+- Docker 24.0.2
 
-To learn more about Next.js, take a look at the following resources:
+- **<img src="https://dinhanhthi.com/img/header/nextjs.png" align="center" height="35px"/>**
+- **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" align="center" height="40px" />**
+- **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" align="center" height="35px"/>**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Libs 📚
 
-## Deploy on Vercel
+- **React**
+- **Faker**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Informações
+
+<i class="devicon-react-original colored">
+  <p>
+    The informations to log in the application its below
+  </p>
+  
+   **Login:** admin@afiliados.com.br 
+  
+   **Password:** Aa123456789*
+ 
+</i>
+
+## ⛩ Autor ⛩<br>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://jonglazkov.github.io">
+        <img src="https://cdn.discordapp.com/attachments/516398929571741698/975983326403891230/jon-animated.png" width="100px;" alt="Foto do Avatar de Jonathan Ventura no GitHub"/><br>
+        <sub>
+          <b>Jonathan Ventura</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
