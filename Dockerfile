@@ -4,7 +4,9 @@ FROM node:18
 # work directory
 WORKDIR /app
 
-COPY ./afilliados-frontend .
+COPY src/ .
+COPY package*.json ./
+COPY . .
 
 # Listen 3000 port
 EXPOSE 3000
